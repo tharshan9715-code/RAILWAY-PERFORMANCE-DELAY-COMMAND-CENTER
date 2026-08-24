@@ -257,25 +257,25 @@ Add the Power BI dashboard screenshots to the `Screenshots/` folder and referenc
 ### Executive Overview
 
 ```markdown
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](SCREENSHOT/EXECUTIVE%20OVERVIEW.png)
 ```
 
 ### Train Performance
 
 ```markdown
-![Train Performance](Screenshots/train_performance.png)
+![Train Performance](SCREENSHOT/TRAIN%20PERFORMANCE.png)
 ```
 
 ### Station & Route Analysis
 
 ```markdown
-![Station & Route Analysis](Screenshots/station_route_analysis.png)
+![Station & Route Analysis](SCREENSHOT/STATION%20%26%20ROUTE%20ANALYSIS.png)
 ```
 
 ### Delay & Cancellation Analysis
 
 ```markdown
-![Delay & Cancellation Analysis](Screenshots/delay_cancellation_analysis.png)
+![Delay & Cancellation Analysis](SCREENSHOT/DELAY%20%26%20CANCELLATION%20ANALYSIS.png)
 ```
 
 ## Filters & Slicers
@@ -347,7 +347,8 @@ Use the slicers and visuals to investigate railway operations, delays, punctuali
 
 ## Author
 
-**Thanga Raj**
+**Thanga Raj.V**(AF05265179)
+Data Analytics with AI (Anudip Foundation/Pallavaram)
 
 **Project:** Railway Performance & Delay Command Center
 
